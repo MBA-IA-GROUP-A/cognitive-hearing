@@ -14,3 +14,7 @@
 
 > `python 3.9`
 > `pip install -r requirements.txt`
+
+## Video
+
+[Link](https://youtu.be/WoYroUT-dP4)
